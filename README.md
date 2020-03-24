@@ -1,8 +1,11 @@
 # Lyrical-GraphQL
 Starter project from a GraphQL course on Udemy.com
 
-![Songs](https://github.com/schreyerpeter/graphql-lyrical/blob/master/static/song-list.png)
+#### Add a New Song
+![songs](https://github.com/schreyerpeter/graphql-lyrical/blob/master/client/screenshots/song-list.png)
 
-![Song Index](https://github.com/schreyerpeter/graphql-lyrical/blob/master/static/song.png)
+#### Create a New Song
+![Create_Song](https://github.com/schreyerpeter/graphql-lyrical/blob/master/client/screenshots/create-song.png)
 
-![Create Song](https://github.com/schreyerpeter/graphql-lyrical/blob/master/static/create-song.png)
+#### Add Lyrics to a song
+![Song_Index](https://github.com/schreyerpeter/graphql-lyrical/blob/master/client/screenshots/song.png)
